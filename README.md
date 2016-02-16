@@ -1,1 +1,1 @@
-Rails class test for heroku deployment
+Heroku deployed application from a Coursera Ruby on Rails course.
